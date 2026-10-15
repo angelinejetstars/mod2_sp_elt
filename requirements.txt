@@ -1,5 +1,4 @@
 altair==6.3.0
-anaconda-anon-usage @ file:///home/task_178056140078668/croot/anaconda-anon-usage_1780561464840/work
 anaconda-auth @ file:///Users/ec2-user/croot/anaconda-auth_1787915948281/work
 anaconda-channel-guide @ file:///Users/ec2-user/croot/anaconda-channel-guide_1786638238360/work
 anaconda-cli-base @ file:///Users/ec2-user/croot/anaconda-cli-base_1782138618093/work
