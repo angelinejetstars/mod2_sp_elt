@@ -52,3 +52,4 @@ uvicorn==0.54.0
 websockets==17.2
 wheel==0.47.0
 yfinance
+python-dotenv
