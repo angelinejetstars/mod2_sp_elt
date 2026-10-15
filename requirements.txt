@@ -51,5 +51,5 @@ streamlit==1.66.0
 uvicorn==0.54.0
 websockets==17.2
 wheel==0.47.0
-yfinance
-python-dotenv
+yfinance==0.2.63
+python-dotenv==1.0.1
