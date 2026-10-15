@@ -39,7 +39,7 @@ pydata-google-auth==1.9.1
 pydeck==0.9.3
 pyparsing==3.3.3
 python-dateutil==2.9.0.post0
-requests==2.31.0
+requests==2.33.0
 requests-oauthlib==2.0.0
 rich==15.0.0
 rpds-py==2026.9.1
